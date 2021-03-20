@@ -1,2 +1,13 @@
-![ammar-sys's github stats](https://github-readme-stats.vercel.app/api?username=ammar-sys&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-sys&layout=compact&theme=dark)](https://github.com/ammar-sys/github-readme-stats)
+```json
+{
+  "IDE(s)": [
+    "PyCharm", "VSC", "Webstorm"
+  ],
+  "Language(s) & Framework(s)": [
+    "Python", "HTML & CSS", "JavaScript", "Flask", "SQL", "discord.py"
+  ],
+  "Database(s)": [
+    "PostgreSQL", "SQlite"
+  ]
+}
+```
