@@ -11,7 +11,7 @@
   ],
   "Looking to collaborate": {
       "answer": "yes",
-      "project(s):": ["discord bots", "websites (both backend and frontend)", "GUI / desktop development", "anything in my skill range"]
+      "project(s):": ["discord bots", "websites (both backend and frontend)", "..."]
   }
 }
 ```
