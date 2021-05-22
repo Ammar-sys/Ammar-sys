@@ -8,6 +8,7 @@
   ],
   "Database(s)": [
     "PostgreSQL", "SQlite"
-  ]
+  ],
+  "Looking to collaborate": True
 }
 ```
