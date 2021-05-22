@@ -8,10 +8,6 @@
   ],
   "Database(s)": [
     "PostgreSQL", "SQlite"
-  ],
-  "Looking to collaborate": {
-      "answer": "yes",
-      "project(s):": ["discord bots", "websites (both backend and frontend)", "..."]
-  }
+  ]
 }
 ```
